@@ -1,6 +1,6 @@
 # UAS Game Asset HDRP Semester 4
 
-An outdoor scene study built with the High Definition Render Pipeline. Explore the environment and its water assets in the Scene view.
+A Water Simulation with the High Definition Render Pipeline.
 
 ## Open in Unity
 
